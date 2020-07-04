@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "mod_buildspace",
+    "name": "Buildspace",
+    "description": "Limit buildable area",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Fakas"],
+    "credits": "Ya boi Fakas, TheGreyGhost of MinecraftByExample.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
