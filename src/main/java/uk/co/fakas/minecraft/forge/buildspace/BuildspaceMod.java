@@ -11,7 +11,7 @@ import org.apache.logging.log4j.Logger;
 public class BuildspaceMod {
     public static final String MODID = "mod_buildspace";
     public static final String NAME = "Buildspace";
-    public static final String VERSION = "0.0.0-dev";
+    public static final String VERSION = "0.1";
 
     private static Logger logger;
 
